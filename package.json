@@ -1,0 +1,19 @@
+{
+  "name": "i_shop",
+  "version": "1.0.0",
+  "description": "E-commerce demo site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erintait/i_shop.git"
+  },
+  "author": "Erin Tait",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erintait/i_shop/issues"
+  },
+  "homepage": "https://github.com/erintait/i_shop#readme"
+}
